@@ -1,10 +1,12 @@
 ## 发布方式
 
-cd /Users/zhheo/Desktop/工作文件/张洪Heo/网页项目/PostChat/Hexo插件/HexoDemo/hexo-plugin-postchat
-
 npm login
 
 npm publish
+
+## 1.0.0
+
+由于主线为了兼容性不予合并，为个人使用，另开新包，仅供liushen个人学习使用。
 
 ## 2.1.0
 

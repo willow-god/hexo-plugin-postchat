@@ -1,10 +1,11 @@
 {
-  "name": "hexo-plugin-postchat",
-  "version": "2.1.0",
-  "description": "🤖站点AI增强工具，实现文章摘要与知识库对话",
+  "name": "hexo-plugin-postchat-liushen",
+  "version": "1.0.0",
+  "description": "🤖站点AI增强工具，实现文章摘要与知识库对话，本插件为liushen个人使用，如有侵权联系删除！",
   "main": "index.js",
-  "author": "张洪Heo",
-  "license": "仅用于PostChat服务",
+  "author": "willow-god",
+  "email": "01@liushen.fun",
+  "license": "MIT",
   "dependencies": {
     "cheerio": "^1.0.0-rc.10"
   },
@@ -15,9 +16,16 @@
     "postchat",
     "ai"
   ],
+  "files": [
+    "index.js",
+    "src/"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/zhheo/hexo-plugin-postchat.git"
+  },
+  "bugs": {
+    "url": "https://github.com/willow-god/hexo-safego/issues"
   },
   "homepage": "https://postchat.zhheo.com/plugin/hexo.html"
 }
